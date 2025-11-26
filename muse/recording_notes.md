@@ -12,3 +12,9 @@ In this doc, I'll jot down some experiential notes that may be useful when analy
   - Many minor and a few major internal physical realignments
 - **Subjective experiences**:
   - A general impression of "peeling away" layers of sensation
+
+## `2025-11-25--19-51-38`
+
+Exercise as in `2025-11-24`.
+Relatively more emphasis on vibrating sensations in the cranium, resulting in some intense feedback and the felt sense of brainwave pattern changes.
+(Whether these changes show up in the recording remains to be seen.)
