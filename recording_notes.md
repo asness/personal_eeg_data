@@ -20,3 +20,13 @@ Relatively more emphasis on vibrating sensations in the cranium, resulting in so
 
 **Analysis notes**:
 The feedback I described seems to show up in the recording as large fluctuations of alpha and theta in `AF8`, the front-right sensor.
+
+## `muse/2025-11-30--16-06-26`
+
+On 2025-11-30, I sat for six one-hour sessions between 7 am and 5 pm.
+The last sit involved some unknotting of the right shoulder.
+This is a sensitive area that I had become aware of during the first Goenka course in January.
+The knot flares up when I get anxious or defensive.
+As is often the case, that unknotting involved some synchronized pops and cracks in the brain.
+Maybe the high-frequency (beta-gamma) AF7/AF8 spike has something to do with that release;
+maybe it's an artifact.
