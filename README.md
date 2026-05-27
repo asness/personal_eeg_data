@@ -10,7 +10,7 @@ I record the files with a Muse 2 and the Android Mind Monitor app.
 
 ## Repository contents
 
-- `muse`: zipped recordings of hour-long Goenka vipassana practice sessions
+- `muse`: zipped recordings of hour-long Goenka vipassana practice sessions.
 - `muse_downsampled`: just the precomputed band power data, sampled once per second. 
 
 ## GitHub notes
